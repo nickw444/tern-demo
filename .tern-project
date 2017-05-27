@@ -1,0 +1,12 @@
+{
+    "plugins": {
+        "es_modules": {},
+        "modules": {},
+        "doc_comment": {
+            "strong": true
+        },
+        "webpack": {
+            "configPath": "./webpack.config.js"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tern-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "tern": "^0.21.0"
+  },
+  "dependencies": {
+    "webpack": "1"
+  }
+}
