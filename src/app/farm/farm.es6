@@ -1,4 +1,4 @@
-import { Cat } from '/animals/cat';
+import { Cat } from 'animals/cat';
 
 export class Farm {
   constructor(cats) {

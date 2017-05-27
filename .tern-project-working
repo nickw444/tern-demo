@@ -11,6 +11,6 @@
     },
     "loadEagerly": [
         "src/**/*.js",
-        "src/**/*.es6",
+        "src/**/*.es6"
     ]
 }
